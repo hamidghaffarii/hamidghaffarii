@@ -14,7 +14,7 @@
         <meta property="og:title" content="حمید غفاری"/>
         <meta property="og:type" content="profile"/>
         <meta property="og:image"
-              content="/media/CACHE/images/public/avatars/58812f8c7be04cc69576b4863070bf7e/60eb94c1aa429179a04a0b56a3f577ff.jpg"/>
+              content="http://sh-sarakhs.ir/_douranportal/images/%D9%BE%D8%B1%D8%B3%D9%86%D9%84/0819908071.jpg"/>
         
     
     
